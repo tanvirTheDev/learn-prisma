@@ -10,4 +10,4 @@ This repository contains my practice codes, notes, and small projects while lear
 - Error handling
 
 ## Note
-This is only for my personal learning purpose. 🚀
+This is only for my personal learning purpose. 
